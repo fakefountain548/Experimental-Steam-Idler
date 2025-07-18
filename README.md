@@ -32,7 +32,7 @@
 1. Clone this repository or download the necessary files:
 
 ```bash
-git clone https://github.com/fakefountain548/experimental-steam-idler.git
+git clone https://github.com/fakefountain548/Experimental-Steam-Idler.git
 cd experimental-steam-idler
 ```
 
