@@ -1,0 +1,6 @@
+GAMES = {
+    "Left 4 Dead 2": 550,
+    "Portal 2": 620,
+    "Half-Life 2": 220,
+    "Team Fortress 2": 440,
+}
