@@ -4,4 +4,5 @@ GAMES = {
     "Half-Life 2": 220,
     "Team Fortress 2": 440,
     "Dark Souls": 570940,
+    "Balatro": 2379780,
 }
