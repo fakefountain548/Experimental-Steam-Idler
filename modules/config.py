@@ -5,5 +5,6 @@ GAMES = {
     "Team Fortress 2": 440,
     "Dark Souls": 570940,
     "Balatro": 2379780,
-    "World Box": 1206560
+    "World Box": 1206560,
+    "Ultra Kill": 1229490,
 }
