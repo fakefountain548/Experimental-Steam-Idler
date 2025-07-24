@@ -7,4 +7,5 @@ GAMES = {
     "Balatro": 2379780,
     "World Box": 1206560,
     "Ultra Kill": 1229490,
+    "Garry's Mod": 4000,
 }
