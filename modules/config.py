@@ -9,4 +9,5 @@ GAMES = {
     "Ultra Kill": 1229490,
     "Garry's Mod": 4000,
     "Cuphead": 268910,
+    "Left 4 Dead": 500,
 }
