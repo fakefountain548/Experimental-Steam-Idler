@@ -10,4 +10,5 @@ GAMES = {
     "Garry's Mod": 4000,
     "Cuphead": 268910,
     "Left 4 Dead": 500,
+    "The Escapists": 298630
 }
